@@ -1,0 +1,10 @@
+# ninja log v5
+9	936	6650170945425611	CMakeFiles/Code.dir/main.cpp.obj	26a787fbb6c14ad
+9	1017	6647060174474379	CMakeFiles/Code.dir/CHocSinh.cpp.obj	822147c6f45cf13c
+938	1495	6650170950865614	Code.exe	78dffccda95eeef2
+42	2737	6646224601992189	CMakeFiles/Code.dir/CSoPhuc.cpp.obj	9fb5cedd4c1536fb
+10	1616	6646591551854321	CMakeFiles/Code.dir/CDonThuc.cpp.obj	17a48834d557051e
+57	1917	6650170030557914	CMakeFiles/Code.dir/CArray.cpp.obj	ce1a7b8c3878242e
+74	2017	6650551955110361	CMakeFiles/Code.dir/main.cpp.obj	26a787fbb6c14ad
+23	2056	6650551955390366	CMakeFiles/Code.dir/CDate.cpp.obj	c61590b3818b392d
+2057	3285	6650551967800335	Code.exe	5c472d886b2a6fb8
