@@ -11,5 +11,9 @@ int main() {
     cout << endl;
     Mammal* platypus = new Platypus();
     platypus->showInformation();
+
+    delete(lion);
+    delete(whale);
+    delete(platypus);
     return 0;
 }
